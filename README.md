@@ -19,6 +19,7 @@ Clone o repositório para sua máquina local:
 
 bash
 git clone https://github.com/seu-usuario/repo-nome.git
+
 cd repo-nome
 
 ### Passo 2: Baixe as dependecias
