@@ -28,8 +28,13 @@ Esta listadas [Aqui](requirements.txt)
 
 ### Passo 3: Coloque uma base dados para o treinamento
 
-Neste projeto foi usada uma de caes e gatos que se encontra [Aqui](./data/raw/kagglecatsanddogs_5340.zip)
+Neste projeto foi usada uma de caes e gatos que se encontra [Aqui](./data/raw/dataSet.zip)
 
 ### Passo 4: Instruções de execução do modelo
 
 Foi exemplificado a maneira de executar os scripts veja [Aqui](./notebooks/analysis.ipynb)
+
+
+### Passo 5: Acessando dados processados
+
+Você tambem pode acessar imagens processdas [Aqui](./data/processed/processed_images.zip)
