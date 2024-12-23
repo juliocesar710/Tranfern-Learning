@@ -24,11 +24,11 @@ cd repo-nome
 
 ### Passo 2: Baixe as dependecias
 
-Esta listadas [Aqui](requeriments.txt)
+Esta listadas [Aqui](requirements.txt)
 
 ### Passo 3: Coloque uma base dados para o treinamento
 
-Neste projeto foi usada uma de caes e gatos que se encontra [Aqui](./data/raw/kagglecatsanddogs_5340)
+Neste projeto foi usada uma de caes e gatos que se encontra [Aqui](./data/raw/kagglecatsanddogs_5340.zip)
 
 ### Passo 4: Instruções de execução do modelo
 
