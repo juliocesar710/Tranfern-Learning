@@ -28,7 +28,7 @@ Esta listadas [Aqui](requirements.txt)
 
 ### Passo 3: Coloque uma base dados para o treinamento
 
-Neste projeto foi usada uma de caes e gatos que se encontra [Aqui](./data/raw/dataSet.zip)
+Neste projeto foi usada uma de caes e gatos que se encontra [Aqui](https://www.microsoft.com/en-us/download/details.aspx?id=54765)
 
 ### Passo 4: Instruções de execução do modelo
 
