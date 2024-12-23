@@ -1,0 +1,20 @@
+# Arquivos de cache Python
+__pycache__/
+*.pyc
+
+# Modelos treinados
+*.h5
+
+# Arquivos de log
+*.log
+
+# Diretórios de dados
+dataset/
+raw/
+
+# Arquivos temporários
+*.tmp
+*.bak
+
+# Arquivos do Jupyter Notebook
+.ipynb_checkpoints/

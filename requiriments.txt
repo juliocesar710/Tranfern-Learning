@@ -1,0 +1,8 @@
+1. TensorFlow – Principal framework para deep learning.
+2. Keras – API de alto nível para construção de modelos (integrada ao TensorFlow).
+3. Pillow – Para manipulação de imagens (abertura, verificação de validade).
+4. Matplotlib – Para visualização de gráficos e imagens.
+5. NumPy – Para manipulação de dados numéricos e arrays.
+6. os – Para interação com o sistema de arquivos.
+7. zipfile – Para manipulação de arquivos zip (no caso de salvar imagens).
+8. tensorflow_datasets – Caso tenha usado para algum dataset.
